@@ -71,10 +71,10 @@ export default function TermsOfService() {
             Questions? We're here to help.
           </p>
           <a 
-            href="mailto:support@adsify.space" 
+            href="mailto:ads@trustiify.agency" 
             className="inline-flex items-center justify-center px-10 py-5 text-lg font-bold text-white bg-slate-900 rounded-2xl hover:bg-slate-800 transition-all shadow-xl hover:scale-[1.02]"
           >
-            support@adsify.space
+            ads@trustiify.agency
           </a>
         </footer>
       </div>
