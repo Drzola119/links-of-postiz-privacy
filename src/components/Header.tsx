@@ -14,6 +14,9 @@ export default function Header() {
           <Link href="/terms-of-service" className="hover:text-slate-900 transition-colors">
             Terms
           </Link>
+          <Link href="/data-deletion" className="hover:text-slate-900 transition-colors">
+            Deletion
+          </Link>
         </nav>
       </div>
     </header>
